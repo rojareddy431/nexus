@@ -5,7 +5,7 @@
   <groupId>veridic</groupId>
   <artifactId>veridic1</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>veridic1</name>
   <url>http://maven.apache.org</url>
