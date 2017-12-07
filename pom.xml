@@ -48,6 +48,13 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+	  	<plugin>
+    				<artifactId>maven-war-plugin</artifactId>
+    				<version>2.6</version>
+    				<configuration>
+      				 <failOnMissingWebXml>false</failOnMissingWebXml>
+  				</configuration>
+		</plugin>
+</build>
 	
 </project>
